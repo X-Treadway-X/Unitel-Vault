@@ -1,6 +1,6 @@
 ## Unitel-Software
 
-This is a place of where I will upload all the project that I am working or will work on
+This is a place, of where I will upload all the projects that I am working or will work on
 
 Here a table current software and their status.
 
