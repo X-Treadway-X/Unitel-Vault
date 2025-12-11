@@ -2,7 +2,7 @@
 
 This is a place, of where I will upload all the projects that I am working or will work on
 
-Here a table current software and their status.
+Here a table of current softwares and their status.
 
 | <span style="color: rgb(230, 126, 35);">Software Name</span> | <span style="color: rgb(230, 126, 35);">Start Date</span> | <span style="color: rgb(230, 126, 35);">End Date</span> | <span style="color: rgb(230, 126, 35);">Status</span> | <span style="color: rgb(230, 126, 35);">Type</span> | <span style="color: rgb(230, 126, 35);">Language</span> |
 | --- | --- | --- | --- | --- | --- |
